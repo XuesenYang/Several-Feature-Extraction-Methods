@@ -1,9 +1,9 @@
 # Several-Feature-Extraction-Methods
-Several simple feature extraction methods are PCA, LDA, SVD and LLE
-Principal Component Analysis--PCA   
+Several simple feature extraction methods are PCA, LDA, SVD and LLE   
+Principal Component Analysis--PCA    
 Linear Discriminant Analysis--LDA    
 Singular Value Decomposition--SVD    
-Locally Linear Embedding--LLE
+Locally Linear Embedding--LLE    
 main Script：PCAFE.m, LDAFE.m, SVDFE.m, LLEFE.m
 
 # Copyright Clarify
